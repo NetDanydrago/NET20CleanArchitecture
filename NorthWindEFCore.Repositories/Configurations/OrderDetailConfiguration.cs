@@ -2,7 +2,7 @@
 
 namespace NorthWindEFCore.Repositories.Configurations
 {
-    public class OrderDetailConfiguration : IEntityTypeConfiguration<OrderDetail>
+    internal class OrderDetailConfiguration : IEntityTypeConfiguration<OrderDetail>
     {
         public void Configure(EntityTypeBuilder<OrderDetail> builder)
         {
