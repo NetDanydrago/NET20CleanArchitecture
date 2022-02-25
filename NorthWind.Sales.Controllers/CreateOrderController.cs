@@ -1,7 +1,4 @@
-﻿using NorthWind.Sales.BusinessObjects.DTOs.CreateOrder;
-using NorthWind.Sales.BusinessObjects.Interfaces.Controllers;
-using NorthWind.Sales.BusinessObjects.Interfaces.Ports;
-using NorthWind.Sales.BusinessObjects.Interfaces.Presenters;
+﻿
 using System;
 using System.Collections.Generic;
 using System.Linq;
